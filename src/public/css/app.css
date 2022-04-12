@@ -1,0 +1,21 @@
+body {
+  padding: 0; }
+
+h2 {
+  color: #00756c; }
+
+.line-clamp2 {
+  overflow: hidden;
+  display: block;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2; }
+
+.select-option {
+  width: 240px; }
+
+.icon-sort {
+  font-size: 14px;
+  width: 20px;
+  height: 20px;
+  color: red; }
